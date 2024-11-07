@@ -48,9 +48,9 @@ Source/SourceNoRepo/
 
 # Recursos que se usan en el proyecto, pero no queremos o no podemos publicar en un repositorio público y con poco espacio (sean nuestros o ThirdParty)
 # En Unreal Engine 5 hace falta ignorar también la carpeta Characters
+# Content/Megascans/ y Content/MSPresets/ o lo subimos a un Drive nuestro o lo dejamos en el repositorio (LFS, se entiende)
 Content/ContentNoRepo/
 Content/StarterContent/
-Content/Megascans/
 Content/Characters/
 Content/AdvancedCelShader/
 Content/Characters/
